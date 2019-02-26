@@ -1,0 +1,14 @@
+{
+  "timeZone": "Asia/Kolkata",
+  "dependencies": {
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "dataStudio": {
+    "name": "Test Connector",
+    "company": "Lucenta solutions",
+    "logoUrl": "https://lh5.googleusercontent.com/p/AF1QipMLt2jYXucaqZnei7yKgOZwxhPOEFQ3-OnlfxBp=w160-h160-k-no",
+    "addonUrl": "https://github.com/webnightcoder/Test-google-connector",
+    "supportUrl": "https://github.com/webnightcoder/Test-google-connector",
+    "description": "This is Test project for google connector"
+  }
+}

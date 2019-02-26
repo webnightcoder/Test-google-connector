@@ -1,0 +1,14 @@
+{
+  "name": "google-connector",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "push": "cd src;clasp push;cd -"
+  },
+  "devDependencies": {
+    "@google/clasp": "^1.7.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
